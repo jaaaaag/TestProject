@@ -6,6 +6,7 @@ public class TestMainClass {
 		// TODO Auto-generated method stub
 		System.out.println("Test Class");
 		System.out.println("Test 2");
+		System.out.println("edi wow");
 
 	}
 
